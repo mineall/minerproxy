@@ -4,7 +4,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mineall/minerProxy/main/ssminer.sh)"
 ```
 
-> 选择 `1`  安装服务；
+> 选择 `1`  安装程序；
 
 > 选择 `2`  更新程序；
 
