@@ -7,5 +7,11 @@
 > 选择 `1` 为安装服务.
 > 选择 `2` 为更新程序.
 
-#  最新版本
-v1.6.15.21.a7d1222
+
+版本：v1.6.15
+1.优化抽水算法
+2.增加币种CFX   已支持币种 Eth Etc Btc Ltc Ergo Rvn CFX
+3.优化BTC
+
+版本：v1.6.14
+增加币种Ergo    已支持币种 Eth Etc Btc Ltc Ergo Rvn
